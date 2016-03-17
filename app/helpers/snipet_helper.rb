@@ -1,0 +1,2 @@
+module SnipetHelper
+end
